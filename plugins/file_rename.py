@@ -166,7 +166,7 @@ async def doc(bot, update):
         suffix = await digital_botz.get_suffix(user_id)
         new_filename = add_prefix_suffix(new_filename_, prefix, suffix)
     except Exception as e:
-        return await rkn_processing.edit(f"⚠️ Something went wrong can't able to set Prefix or Suffix ☹️ \n\n❄️ Contact My Creator -> @RknDeveloperr\nError: {e}")
+        return await rkn_processing.edit(f"⚠️ Something went wrong can't able to set Prefix or Suffix ☹️ \n\n❄️ Contact My Creator -> @UmeshGurjar1390\nError: {e}")
 
     # msg file location 
     file = update.message.reply_to_message
