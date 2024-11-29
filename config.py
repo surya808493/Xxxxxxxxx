@@ -55,7 +55,7 @@ class Config(object):
     
     #vforce subs
     try:
-        FORCE_SUB = int(os.environ.get("FORCE_SUB", "")) 
+        FORCE_SUB = int(os.environ.get("FORCE_SUB", "GMoviesX")) 
     except:
         FORCE_SUB = os.environ.get("FORCE_SUB", "GmoviesX")
         
@@ -81,7 +81,7 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : \n<a href=https://t.me/UmeshGurjar
 ├📕 Lɪʙʀᴀʀy : {}
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: {}
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: {}
-├📊 ᴠᴇʀsɪᴏɴ: <a href=https://github.com/Umyagurjar/FileRenameBot>{}</a></b>     
+├📊 ᴠᴇʀsɪᴏɴ: <a href=https://github.com/UmeshGurjar1390>{}</a></b>     
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -172,10 +172,10 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @GMoviesX`
     # ᴡʜᴏᴇᴠᴇʀ ɪs ᴅᴇᴘʟᴏʏɪɴɢ ᴛʜɪs ʀᴇᴘᴏ ɪs ᴡᴀʀɴᴇᴅ ⚠️ ᴅᴏ ɴᴏᴛ ʀᴇᴍᴏᴠᴇ ᴄʀᴇᴅɪᴛs ɢɪᴠᴇɴ ɪɴ ᴛʜɪs ʀᴇᴘᴏ #ғɪʀsᴛ ᴀɴᴅ ʟᴀsᴛ ᴡᴀʀɴɪɴɢ ⚠️
     DEV_TXT = """<b><u>Sᴩᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ & Dᴇᴠᴇʟᴏᴩᴇʀꜱ</b></u>
     
-» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/Umyagurjar/FileRenameBot>File-Rename-Bot</a>
+» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/Umeshgurjar1390>File-Rename-Bot</a>
 
-• ❣️ <a href=https://github.com/UmeshGurjar1390>Dᴇᴠɪʟ Lᴜᴄɪғᴇʀ</a>
-• ❣️ <a href=https://github.com/ganeshgurjar0069>Ganesh Gurjar</a> """
+• ❣️ <a href=https://t.me/UmeshGurjar1390>Dᴇᴠɪʟ Lᴜᴄɪғᴇʀ</a>
+• ❣️ <a href=https://t.me/ganeshgurjar0069>Ganesh Gurjar</a> """
     # ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
     SEND_METADATA = """
