@@ -181,7 +181,7 @@ async def doc(bot, update):
     limit = user_data.get('uploadlimit', 0)
     used = user_data.get('used_limit', 0)
 
-    await rkn_processing.edit("`Try To Download....`")
+    await rkn_processing.edit("`🚀 Try To Download....⚡`")
     await digital_botz.set_used_limit(user_id, media.file_size)
     total_used = int(used) + int(media.file_size)
     await digital_botz.set_used_limit(user_id, total_used)
@@ -210,7 +210,7 @@ async def doc(bot, update):
                 pass
         await rkn_processing.edit("**Metadata added to the file successfully ✅**\n\n**Tʀyɪɴɢ Tᴏ Uᴩʟᴏᴀᴅɪɴɢ....**")
     else:
-        await rkn_processing.edit("`Try To Uploading....`")
+        await rkn_processing.edit("`🚀 Try To Uploading....⚡`")
 	    
     duration = 0
     try:
