@@ -69,7 +69,7 @@ class rkn(object):
 
 Tʜɪs Is Aɴ Aᴅᴠᴀᴄᴇᴅ Aɴᴅ Yᴇᴛ Pᴏᴡᴇʀғᴜʟ Rᴇɴᴀᴍᴇ Bᴏᴛ Usɪɴɢ Tʜɪs Bᴏᴛ Yᴏᴜ Cᴀɴ Rᴇɴᴀᴍᴇ & Cʜᴀɴɢᴇ Tʜᴜᴍʙɴᴀɪʟ Oғ Yᴏᴜʀ Fɪʟᴇ Yᴏᴜ Cᴀɴ Aʟsᴏ Cᴏɴᴠᴇʀᴛ Vɪᴅᴇᴏ Tᴏ Fɪʟᴇ & Fɪʟᴇ Tᴏ Vɪᴅᴇᴏ Tʜɪs Bᴏᴛ Aʟsᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ.</b>
 
-Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : \n<a href=https://t.me/UmeshGurjar1390>😊Dᴇᴠɪʟ Lᴜᴄɪғᴇʀ💞</b></a>"""
+</b>Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : \n<a href=https://t.me/UmeshGurjar1390>😊Dᴇᴠɪʟ Lᴜᴄɪғᴇʀ💞</b></a>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
@@ -86,15 +86,15 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : \n<a href=https://t.me/UmeshGurjar
 
 ✏️ <b><u>Hᴏᴡ Tᴏ Rᴇɴᴀᴍᴇ A Fɪʟᴇ</u></b>
 <b>•></b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/Umeshgurjar9763>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/Umeshgurjar9763>Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ</b></a>
 """
 
     UPGRADE= """
-•⪼ ★𝘗𝘭𝘢𝘯𝘴     -    ⏳𝘋𝘢𝘵𝘦 -  💸𝘗𝘳𝘪𝘤𝘦 - limit 
-•⪼ 🏆𝘗ro -    1𝘮𝘰𝘯𝘵𝘩 -   179 - 100gb
-•⪼ 💎 Ultra Pro  -   1𝘮𝘰𝘯𝘵𝘩 -   199 - 1000gb
+•⪼ ★Pʟᴀɴs -  ⏳ Dᴀᴛᴇ  💸Pʀɪᴄᴇ.
+•⪼ 🏆 Pʀᴏ - 𝟷 Mᴏɴᴛʜ -𝟷𝟽𝟿 - 𝟷𝟶𝟶ɢʙ
+•⪼ 💎 Uʟᴛʀᴀ Pʀᴏ - 𝟷Mᴏɴᴛʜ 𝟷𝟿𝟿- 𝟷𝟶𝟶𝟶ɢʙ</b>
 
-- 𝘋𝘪𝘴𝘤𝘰𝘶𝘯𝘵 𝘈𝘭𝘭 𝘗𝘭𝘢𝘯 𝘙𝘴.9
+- Discount All Plans.19
     """
     THUMBNAIL = """
 🌌 <b><u>Hᴏᴡ Tᴏ Sᴇᴛ Tʜᴜᴍʙɴɪʟᴇ</u></b>
@@ -187,10 +187,10 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @GMoviesX`
     
     RKN_PROGRESS = """<b>\n
 ╭━━━━❰UG PROCESSING...❱━➣
-┣⪼ 🗃️ ꜱɪᴢᴇ: {1} | {2}
-┣⪼ ⏳️ ᴅᴏɴᴇ : {0}%
-┣⪼ 🚀 ꜱᴩᴇᴇᴅ: {3}/s
-┣⪼ ⏰️ ᴇᴛᴀ: {4}
+┣⪼ 📂 Sɪᴢᴇ : {1} | {2}
+┣⪼ ⏳️ Dᴏɴᴇ : {0}%
+┣⪼ 🚀 Sᴘᴇᴇᴅ : {3}/s
+┣⪼ ⏰️ ETA : {4}
 ╰━━━━━━━━━━━━━━━➣ </b>"""
 
 # Rkn Developer 
