@@ -46,7 +46,7 @@ class Config(object):
     DB_URL = os.environ.get("DB_URL","")
  
     # other configs
-    RKN_PIC = os.environ.get("RKN_PIC", "https://graph.org/file/1fb5c736c2b77a4d7a293-bcab7e5fabb41f57ce.jpg")
+    RKN_PIC = os.environ.get("RKN_PIC", "https://graph.org/file/847a1012f67590b715252-dc85e89a8b1d79f8bd.jpg")
     ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '6267863649').split()]
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002232612097"))
 
@@ -78,7 +78,7 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : \n<a href=https://t.me/UmeshGurjar
 ├📕 Lɪʙʀᴀʀy : {}
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: {}
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: {}
-├📊 ᴠᴇʀsɪᴏɴ: <a href=https://github.com/UmeshGurjar1390>{}</a></b>     
+├📊 ᴠᴇʀsɪᴏɴ: <a href=https://github.com/UmeshGurjar>{}</a></b>     
 ╰───────────────⍟ """
 
     HELP_TXT = """
