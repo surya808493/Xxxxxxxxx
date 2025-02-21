@@ -57,7 +57,7 @@ class Config(object):
     try:
         FORCE_SUB = int(os.environ.get("FORCE_SUB", "Deendayal_dhakadl")) 
     except:
-        FORCE_SUB = os.environ.get("FORCE_SUB", "Deendayal_dhakadl")
+        FORCE_SUB = os.environ.get("FORCE_SUB", "Deendayal_Hindi_Movie")
         
     # wes response configuration     
     PORT = int(os.environ.get("PORT", "8080"))
@@ -69,7 +69,7 @@ class rkn(object):
 
 Tʜɪs Is Aɴ Aᴅᴠᴀᴄᴇᴅ Aɴᴅ Yᴇᴛ Pᴏᴡᴇʀғᴜʟ Rᴇɴᴀᴍᴇ Bᴏᴛ Usɪɴɢ Tʜɪs Bᴏᴛ Yᴏᴜ Cᴀɴ Rᴇɴᴀᴍᴇ & Cʜᴀɴɢᴇ Tʜᴜᴍʙɴᴀɪʟ Oғ Yᴏᴜʀ Fɪʟᴇ Yᴏᴜ Cᴀɴ Aʟsᴏ Cᴏɴᴠᴇʀᴛ Vɪᴅᴇᴏ Tᴏ Fɪʟᴇ & Fɪʟᴇ Tᴏ Vɪᴅᴇᴏ Tʜɪs Bᴏᴛ Aʟsᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ
 
-Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : \n<a href=https://t.me/UmeshGurjar1390>😊Dᴇᴠɪʟ Lᴜᴄɪғᴇʀ💞</b></a>"""
+Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : \n<a href=https://t.me/Deendayal_Hindi_Movie>😊SURAJ SURYA💞</b></a>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
@@ -78,7 +78,7 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : \n<a href=https://t.me/UmeshGurjar
 ├📕 Lɪʙʀᴀʀy : {}
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: {}
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: {}
-├📊 ᴠᴇʀsɪᴏɴ: <a href=https://github.com/UmeshGurjar>{}</a></b>     
+├😎 Movie Group: <a href=https://t.me/Deendayal_Hindi_Movie>{}</a></b>     
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -86,7 +86,7 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : \n<a href=https://t.me/UmeshGurjar
 
 ✏️ <b><u>Hᴏᴡ Tᴏ Rᴇɴᴀᴍᴇ A Fɪʟᴇ</u></b>
 <b>•></b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/Umeshgurjar9763>Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ</b></a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/Deendayal_Hindi_Movie>Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ</b></a>
 """
 
     UPGRADE= """
@@ -143,9 +143,9 @@ V𝟹.𝟶.𝟶 [STABLE]
 
 ☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
 
-◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @GMoviesX" -metadata author="@umeshgurjar1390" -metadata:s:s title="Subtitled By :- @UmeshGurjar1390" -metadata:s:a title="By :- @UmeshGurjar1390" -metadata:s:v title="By:- @UmeshGurjar1390" </code>
+◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @Nobita_Files_Filter_bot" -metadata author="@Nobita_Files_Filter_bot" -metadata:s:s title="Subtitled By :- @Nobita_Files_Filter_bot" -metadata:s:a title="By :- @Nobita_Files_Filter_bot" -metadata:s:v title="By:- @Nobita_Files_Filter_bot" </code>
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @GmoviesX
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Deendayal_Suraj
 """
     
     CUSTOM_FILE_NAME = """
@@ -160,8 +160,8 @@ you can pre-add a prefix and suffix along with your new filename
 ➢ /see_suffix - Tᴏ Sᴇᴇ Yᴏᴜʀ Sᴜғғɪx !!
 ➢ /del_suffix - Tᴏ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Sᴜғғɪx !!
 
-Exᴀᴍᴩʟᴇ:- `/set_suffix @GMoviesX`
-Exᴀᴍᴩʟᴇ:- `/set_prefix @GMoviesX`
+Exᴀᴍᴩʟᴇ:- `/set_suffix Deendayal_Hindi_Movie`
+Exᴀᴍᴩʟᴇ:- `/set_prefix Deendayal_Hindi_Movie`
 """
     
     #⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
@@ -171,8 +171,8 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @GMoviesX`
     
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/Umeshgurjar1390>File-Rename-Bot</a>
 
-• ❣️ <a href=https://t.me/UmeshGurjar1390>Dᴇᴠɪʟ Lᴜᴄɪғᴇʀ</a>
-• ❣️ <a href=https://t.me/ganeshgurjar0069>Ganesh Gurjar</a> """
+• ❣️ <a href=https://t.me/Deendayal_Hindi_Movie>SURAJ SURYA</a>
+• ❣️ <a href=https://t.me/Deendayal_Hindi_Movie>NOBITA</a> """
     # ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
     SEND_METADATA = """
@@ -180,9 +180,9 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @GMoviesX`
 
 ☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
 
-◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @Rkn_Bots" -metadata author="@RknDeveloper" -metadata:s:s title="Subtitled By :- @Rkn_Bots" -metadata:s:a title="By :- @Rkn_Bots" -metadata:s:v title="By:- @RknDeveloper" </code>
+◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @Nobita_Files_Filter_bot" -metadata author="@Nobita_Files_Filter_bot" -metadata:s:s title="Subtitled By :- @Nobita_Files_Filter_bot" -metadata:s:a title="By :- @Nobita_Files_Filter_bot" -metadata:s:v title="By:- @Nobita_Files_Filter_bot" </code>
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @GmoviesX
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Deendayal_Suraj
 """
     
     RKN_PROGRESS = """<b>\n
