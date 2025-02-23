@@ -56,8 +56,8 @@ upgrade_trial_button = InlineKeyboardMarkup([[
 ]])
 
 start_button = InlineKeyboardMarkup([[        
-        InlineKeyboardButton('Uᴩᴅᴀ𝚃ᴇꜱ', url='https://t.me/UGMoviez'),
-        InlineKeyboardButton('Sᴜᴩᴩᴏʀ𝚃', url='https://t.me/GmoviesX')
+        InlineKeyboardButton('Uᴩᴅᴀ𝚃ᴇꜱ', url='https://t.me/Deendayal_dhakadl'),
+        InlineKeyboardButton('Sᴜᴩᴩᴏʀ𝚃', url='https://t.me/Deendayal_Hindi_Movie')
         ],[
         InlineKeyboardButton('Aʙᴏυᴛ', callback_data='about'),
         InlineKeyboardButton('Hᴇʟᴩ', callback_data='help')
