@@ -33,8 +33,8 @@ __programer__ = "<a href=https://github.com/Umyagurjar/FileRenameBot>Dᴇᴠɪʟ
 __library__ = "<a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>"
 __language__ = "<a href=https://www.python.org/>Pyᴛʜᴏɴ 3</a>"
 __database__ = "<a href=https://cloud.mongodb.com/>Mᴏɴɢᴏ DB</a>"
-__developer__ = "<a href=https://t.me/UmeshGurjar1390>Dᴇᴠɪʟ Lᴜᴄɪғᴇʀ</a>"
-__maindeveloper__ = "<a href=https://t.me/UmeshGurjar1390>Dᴇᴠɪʟ Lᴜᴄɪғᴇʀ</a>"
+__developer__ = "<a href=t.me/Deendayal_Suraj>SURAJ SURYA</a>"
+__maindeveloper__ = "<a href=t.me/Deendayal_Suraj>SURAJ SURYA</a>"
 
 # main copyright herders (©️)
 # I have been working on this repo since 2022
