@@ -47,7 +47,7 @@ class Config(object):
  
     # other configs
     RKN_PIC = os.environ.get("RKN_PIC", "https://envs.sh/dIL.jpg")
-    ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '7406982863').split()]
+    ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '5730642419').split()]
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002402091090"))
 
     # free upload limit 
